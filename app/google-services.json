@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605479143571",
+    "firebase_url": "https://vikram-49d42.firebaseio.com",
+    "project_id": "vikram-49d42",
+    "storage_bucket": "vikram-49d42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605479143571:android:f0ca980eab83ae4b87a566",
+        "android_client_info": {
+          "package_name": "com.message.mymessageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605479143571-hl3dh1msa8il5rkad2kapnmpkuao09uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.message.mymessageapp",
+            "certificate_hash": "8c7310ec385d6d0b9f282aefcab52cd712c477db"
+          }
+        },
+        {
+          "client_id": "605479143571-rbr52tok5s7t0iui9kpbbeg2bjkvcval.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2k6xUdi6wfsFKbifo1vqeFKGkhJvkwWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605479143571-rbr52tok5s7t0iui9kpbbeg2bjkvcval.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
